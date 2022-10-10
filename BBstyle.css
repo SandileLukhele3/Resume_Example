@@ -1,0 +1,9 @@
+body     {background-color:#cfc5ab}
+h1	{ font-family:"Arial"}
+table {
+	  
+	  border-collapse:collapse;
+	  border-style: solid;
+	  border-color: #ff0000;
+	font-size: 16pt;
+}
